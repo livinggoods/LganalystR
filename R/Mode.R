@@ -1,4 +1,4 @@
-#' Select the most common value and return it
+#' Select the most common value
 #'
 #' @param x A list of vectors.
 #'
