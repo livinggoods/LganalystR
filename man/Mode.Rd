@@ -2,11 +2,7 @@
 % Please edit documentation in R/Mode.R
 \name{Mode}
 \alias{Mode}
-<<<<<<< HEAD
-\title{Select the most common value}
-=======
 \title{Select the most common value and return it}
->>>>>>> 47fda30b5afbdf487eb5f3c346aab1b6a368e4a9
 \usage{
 Mode(x)
 }
@@ -17,11 +13,7 @@ Mode(x)
 A vector.
 }
 \description{
-<<<<<<< HEAD
-Select the most common value
-=======
 Select the most common value and return it
->>>>>>> 47fda30b5afbdf487eb5f3c346aab1b6a368e4a9
 }
 \examples{
 list_of_items<- c(1,2,2,3)

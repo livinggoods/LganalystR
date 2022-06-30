@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Package: LganalystR
 Type: Package
 Title: What the Package Does (Title Case)
@@ -12,18 +11,3 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports: 
     dplyr
-=======
-Package: LganalystR
-Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Authors@R: person("Brian", "Ssali", , "bssali@livinggoods.org", role = c("aut", "cre"))
-Maintainer: The package maintainer <bssali@livinggoods.org>
-Description: Convenience functions to make some common tasks a bit easier.
-License: file LICENSE
-Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.1.1
-Imports: 
-    dplyr
->>>>>>> 47fda30b5afbdf487eb5f3c346aab1b6a368e4a9
